@@ -10,3 +10,4 @@ C:\Users\hellomandymae\Source\Repos\cis-3285-online-unit-9-part-1-amnich05\Singl
 C:\Users\hellomandymae\Source\Repos\cis-3285-online-unit-9-part-1-amnich05\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
 C:\Users\hellomandymae\Source\Repos\cis-3285-online-unit-9-part-1-amnich05\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.exe
 C:\Users\hellomandymae\Source\Repos\cis-3285-online-unit-9-part-1-amnich05\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.pdb
+C:\Users\hellomandymae\Source\Repos\cis-3285-online-unit-9-part-1-amnich05\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.csprojResolveAssemblyReference.cache
